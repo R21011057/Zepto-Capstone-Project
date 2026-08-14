@@ -1,1 +1,1 @@
-# Zepto-Capstone-Project
+# Zepto Data & AI Platform
