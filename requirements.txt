@@ -1,3 +1,7 @@
+fastapi
+uvicorn
+langgraph
+sentence-transformers
+chromadb
+pydantic
 requests
-beautifulsoup4
-pandas
